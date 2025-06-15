@@ -33,7 +33,7 @@ Busco unirme a **proyectos pequeños** con otros desarrolladores novatos para:
 
 ## 📫 **¿Quieres contactarme?**  
 - 📧 **Email**: [samuelantu4@gmail.com](mailto:samuelantu4@gmail.com)  
-- 🔗 **Portafolio**: *[En construcción... pero pronto aquí!]*  
+- 🔗 **Portafolio**: *https://samuelantunez.vercel.app/*  
 
 ---
 
