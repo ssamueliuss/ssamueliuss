@@ -18,7 +18,7 @@
    🎮 **Juego de mecanografía** donde pruebas tu velocidad escribiendo palabras antes de que lleguen al fondo.  
    *Tecnologías: Godot* 
 
-### 2. [JamDoc]((https://sillydevs.itch.io/jamdoc)  
+### 2. [JamDoc](https://sillydevs.itch.io/jamdoc)  
    🎮 **Control de proyectos y jams** donde puedes gestionar y organizar ideas, fechas, y proyectos.  
    *Tecnologías: React, TypeScript, Tauri*     
 
