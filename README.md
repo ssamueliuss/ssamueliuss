@@ -1,23 +1,28 @@
 # 👨‍💻 ¡Hola! Soy Samuel Antúnez (@ssamueliuss)  
 
 ### 🌎 **También conocido como**  
-> "**Samuelius** en la web — Estudiante de último año de Ingeniería Informática y apasionado por el *frontend, UI/UX y la magia de CSS*."  
+> "**Samuelius** en la web — Ingeniero en informática y apasionado en el desarrollo de videojuegos y la programación WEB."  
 
 ---
 
 ## 🛠 **Tecnologías e Intereses**  
-- 💻 **Desarrollo Web**: Enfocado en frontend, interacciones con JS y diseños creativos con CSS.  
+- 💻 **Desarrollo Web**: Enfocado en frontend, interacciones con JS y diseños creativos con CSS.
+- 🚀 **Desarrollo de videojuegos**: Aprendiz del motor Godot, ya con varios proyectos lanzados.
 - 🎨 **UI/UX**: Me encanta diseñar experiencias intuitivas y visualmente atractivas.  
 - 🔍 **Aprendiendo**: PHP, JavaScript vanilla y HTML (¡próximamente React.js y Node.js!).  
 
 ---
 
 ## 🚀 **Proyectos Destacados**  
-### 1. [WordMaster](https://wordmaster.vercel.app/)  
+### 1. [WordMaster](https://sillydevs.itch.io/wordmaster)  
    🎮 **Juego de mecanografía** donde pruebas tu velocidad escribiendo palabras antes de que lleguen al fondo.  
-   *Tecnologías: HTML, CSS, JavaScript.*  
+   *Tecnologías: Godot* 
 
-### 2. [Art2Code](https://art2code.vercel.app/)  
+### 2. [JamDoc]((https://sillydevs.itch.io/jamdoc)  
+   🎮 **Control de proyectos y jams** donde puedes gestionar y organizar ideas, fechas, y proyectos.  
+   *Tecnologías: React, TypeScript, Tauri*     
+
+### 3. [Art2Code](https://art2code.vercel.app/)  
    🖼️ **Conversor de imágenes a código ASCII** con opciones personalizables para crear arte digital.  
    *Tecnologías: HTML, CSS, JavaScript.*  
 
@@ -33,7 +38,7 @@ Busco unirme a **proyectos pequeños** con otros desarrolladores novatos para:
 
 ## 📫 **¿Quieres contactarme?**  
 - 📧 **Email**: [samuelantu4@gmail.com](mailto:samuelantu4@gmail.com)  
-- 🔗 **Portafolio**: *https://samuelantunez.vercel.app/*  
+- 🔗 **Portafolio**: *https://sillydevs.vercel.app/*  
 
 ---
 
