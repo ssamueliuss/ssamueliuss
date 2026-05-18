@@ -1,6 +1,6 @@
 # 👨‍💻 ¡Hola! Soy Samuel Antúnez (@ssamueliuss)
 
-### 🌎 **Founder & Lead Developer en sillydevs studio**
+### 🌎 **Founder & Lead Developer en SillyDevs Studio**
 > "Ingeniero en Informática enfocado en el desarrollo de videojuegos 2D y la creación de herramientas de software modernas e intuitivas."
 
 ---
@@ -20,7 +20,7 @@
 
 ### 👾 Videojuegos
 *   **[WordMaster](https://sillydevs.itch.io/wordmaster)** ⌨️ – Un juego de mecanografía rápido y adictivo para poner a prueba tu velocidad antes de que las palabras toquen el fondo. *(Desarrollado en Godot)*
-*   **Overcharge** ⚡ – *En desarrollo activo.* Un proyecto roguelike en producción bajo el sello de **sillydevs**.
+*   **Overcharge** ⚡ – *En desarrollo activo.* Un proyecto roguelike en producción bajo el sello de **SillyDevs Studio**.
 
 ### 🛠️ Herramientas & Utilidades
 *   **[JamDoc](https://sillydevs.itch.io/jamdoc)** 📂 – Software de escritorio diseñado para la gestión y organización de ideas, tiempos y proyectos en Game Jams. *(React, TypeScript, Tauri)*
