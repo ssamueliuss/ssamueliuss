@@ -1,54 +1,48 @@
-# 👨‍💻 ¡Hola! Soy Samuel Antúnez (@ssamueliuss)  
+# 👨‍💻 ¡Hola! Soy Samuel Antúnez (@ssamueliuss)
 
-### 🌎 **También conocido como**  
-> "**Samuelius** en la web — Ingeniero en informática y apasionado en el desarrollo de videojuegos y la programación WEB."  
-
----
-
-## 🛠 **Tecnologías e Intereses**  
-- 💻 **Desarrollo Web**: Enfocado en frontend, interacciones con JS y diseños creativos con CSS.
-- 🚀 **Desarrollo de videojuegos**: Aprendiz del motor Godot, ya con varios proyectos lanzados.
-- 🎨 **UI/UX**: Me encanta diseñar experiencias intuitivas y visualmente atractivas.  
-- 🔍 **Aprendiendo**: PHP, JavaScript vanilla y HTML (¡próximamente React.js y Node.js!).  
+### 🌎 **Founder & Lead Developer en sillydevs studio**
+> "Ingeniero en Informática enfocado en el desarrollo de videojuegos 2D y la creación de herramientas de software modernas e intuitivas."
 
 ---
 
-## 🚀 **Proyectos Destacados**  
-### 1. [WordMaster](https://sillydevs.itch.io/wordmaster)  
-   🎮 **Juego de mecanografía** donde pruebas tu velocidad escribiendo palabras antes de que lleguen al fondo.  
-   *Tecnologías: Godot* 
+## 🛠️ Tecnologías y Stack
 
-### 2. [JamDoc](https://sillydevs.itch.io/jamdoc)  
-   🎮 **Control de proyectos y jams** donde puedes gestionar y organizar ideas, fechas, y proyectos.  
-   *Tecnologías: React, TypeScript, Tauri*     
-
-### 3. [Art2Code](https://art2code.vercel.app/)  
-   🖼️ **Conversor de imágenes a código ASCII** con opciones personalizables para crear arte digital.  
-   *Tecnologías: HTML, CSS, JavaScript.*  
+| Área | Tecnologías |
+| :--- | :--- |
+| **Game Dev** | Godot Engine (2D/3D) |
+| **Frontend & UI** | React.js, Tailwind CSS, JavaScript (ES6+), TypeScript, HTML5 / CSS3 |
+| **Desktop Apps** | Tauri |
+| **Herramientas** | Git, GitHub, Figma |
 
 ---
 
-## 🤝 **Colaboraciones**  
-Busco unirme a **proyectos pequeños** con otros desarrolladores novatos para:  
-- ✨ Aprender en equipo y crecer juntos.  
-- 🎨 Dejar mi huella en ideas innovadoras.  
-- 📚 Compartir conocimiento (¡y recibirlo!).  
+## 🚀 Proyectos Destacados
+
+### 👾 Videojuegos
+*   **[WordMaster](https://sillydevs.itch.io/wordmaster)** ⌨️ – Un juego de mecanografía rápido y adictivo para poner a prueba tu velocidad antes de que las palabras toquen el fondo. *(Desarrollado en Godot)*
+*   **Overcharge** ⚡ – *En desarrollo activo.* Un proyecto roguelike en producción bajo el sello de **sillydevs**.
+
+### 🛠️ Herramientas & Utilidades
+*   **[JamDoc](https://sillydevs.itch.io/jamdoc)** 📂 – Software de escritorio diseñado para la gestión y organización de ideas, tiempos y proyectos en Game Jams. *(React, TypeScript, Tauri)*
+*   **[Art2Code](https://art2code.vercel.app/)** 🖼️ – Un conversor web interactivo de imágenes a código ASCII con opciones de personalización en tiempo real. *(HTML, CSS, JavaScript)*
 
 ---
 
-## 📫 **¿Quieres contactarme?**  
-- 📧 **Email**: [samuelantu4@gmail.com](mailto:samuelantu4@gmail.com)  
-- 🔗 **Portafolio**: *https://sillydevs.vercel.app/*  
+## 🤝 Colaboraciones & Comunidad
+Estoy siempre abierto a conectar con otros desarrolladores, diseñadores y apasionados del software para:
+*   🚀 Participar en Game Jams y proyectos independientes.
+*   ✨ Aportar en el diseño de interfaces web interactivas (UI/UX) y mecánicas de juego en Godot.
+*   📚 Compartir conocimientos y seguir iterando en equipo.
 
 ---
 
-## ⚡ **Datos Curiosos**  
-- 🎻 *No puedo programar sin música.*  
-- 🎨 *Diseñé mis proyectos desde cero, incluyendo paletas de colores y logos.*  
+## 📫 ¿Hablamos?
+*   📧 **Email:** [samuelantu4@gmail.com](mailto:samuelantu4@gmail.com)
+*   🌐 **Studio Portfolio:** [sillydevs.vercel.app](https://sillydevs.vercel.app/)
+*   🎮 **Itch.io:** [sillydevs.itch.io](https://sillydevs.itch.io/)
 
----  
- 
-<!---
-ssamueliuss/ssamueliuss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## ⚡ Datos Curiosos
+*   🎵 **100% Music-Driven:** Mi flujo de trabajo depende por completo de un buen beat de fondo. Si no hay música, el código no compila igual.
+*   🎨 **Full-Stack Creative:** Me encarga diseñar la identidad visual de mis proyectos desde cero, desde los sistemas de diseño y paletas de colores hasta los logos.
