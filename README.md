@@ -20,7 +20,7 @@
 
 ### 👾 Videojuegos
 *   **[WordMaster](https://sillydevs.itch.io/wordmaster)** ⌨️ – Un juego de mecanografía rápido y adictivo para poner a prueba tu velocidad antes de que las palabras toquen el fondo. *(Desarrollado en Godot)*
-*   **[OVERCGHARGE](https://sillydevs.itch.io/overcharge)** ⚡ – Un Roguelike completamente aleatorio donde puedes romperlo todo.
+*   **[OVERCHARGE](https://sillydevs.itch.io/overcharge)** ⚡ – Un Roguelike completamente aleatorio donde puedes romperlo todo.
 
 ### 🛠️ Herramientas & Utilidades
 *   **[JamDoc](https://sillydevs.itch.io/jamdoc)** 📂 – Software de escritorio diseñado para la gestión y organización de ideas, tiempos y proyectos en Game Jams. *(React, TypeScript, Tauri)*
